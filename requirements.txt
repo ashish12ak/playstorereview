@@ -3,3 +3,9 @@ numpy
 pandas
 pydeck
 streamlit
+pinecone-client
+pinecone-datasets
+datasets
+sentence_transformers
+torch
+pinecone_text
